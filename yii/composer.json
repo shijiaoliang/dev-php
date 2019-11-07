@@ -21,7 +21,9 @@
         "cocur/slugify": "^3.2",
         "hashids/hashids": "^4.0",
         "overtrue/pinyin": "~4.0",
-        "fightbulc/moment": "^1.30"
+        "fightbulc/moment": "^1.30",
+        "phpoffice/phpspreadsheet": "^1.9",
+        "intervention/image": "^2.5"
     },
     "require-dev": {
         "yiisoft/yii2-debug": "~2.1.0",
